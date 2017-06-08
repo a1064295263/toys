@@ -4,11 +4,11 @@
 
 我  
 
-![boy](https://github.com/chenjiandongx/toys/blob/master/imgparse/images/boy.jpg)
+![boy](https://github.com/chenjiandongx/toys/blob/master/imgparse/images/boy.png)
 
 她  
 
-![girl](https://github.com/chenjiandongx/toys/blob/master/imgparse/images/girl.jpg)  
+![girl](https://github.com/chenjiandongx/toys/blob/master/imgparse/images/girl.png)  
 
 我们  
 
